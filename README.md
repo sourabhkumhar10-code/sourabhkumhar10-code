@@ -6,11 +6,11 @@ Email Me 👉 ✉️ **sourabhkumhar10@gmail.com** For Collaboration/Project or 
 - 🔭 I’m currently working on: Type Zone
 - 🌱 I’m currently learning: Prompt Engineering and Advanced Full-Stack patterns.
 - 👯 I’m looking to collaborate on: Open-source Web Utilities or Ed-Tech tools.
--🤔 I’m looking for help with: Optimizing real-time data processing for typing analytics.
--💬 Ask me about: Web Development (MERN/PHP), Tech Support, and Automation.
--📫 How to reach me: sourabhkumhar10@gmail.com
--😄 Pronouns: saurabh kumhar
--⚡ Fun fact: I Love Tech and Tech Love Me!
+-  🤔 I’m looking for help with: Optimizing real-time data processing for typing analytics.
+-  💬 Ask me about: Web Development (MERN/PHP), Tech Support, and Automation.
+-  📫 How to reach me: sourabhkumhar10@gmail.com
+-  😄 Pronouns: saurabh kumhar
+-  ⚡ Fun fact: I Love Tech and Tech Love Me!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minimastitoons_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh kumhar ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@minimasti toons) 
 <!-- Snake Game Repo View -->
