@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **sourabhkumhar10@gmail.com** For Collaboration/Project or 
 -  😄 Pronouns: saurabh kumhar
 -  ⚡ Fun fact: I Love Tech and Tech Love Me!
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minimastitoons_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-kumhar-196a55405?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mini_masti_toons-s2x?si=LnMPWo5y3P2kX1MV) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/07_sourabh_k_07?igsh=dGhibzRzMHEzMTJ4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-kumhar-196a55405?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mini_masti_toons-s2x?si=LnMPWo5y3P2kX1MV) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
