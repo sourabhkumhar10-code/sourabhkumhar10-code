@@ -55,9 +55,10 @@
 
 ---
 
+
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabhkumhar10-code&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sourabhkumhar10-code&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
